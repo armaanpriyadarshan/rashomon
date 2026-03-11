@@ -8,7 +8,7 @@ const jetbrainsMono = JetBrains_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Rashomon",
+  title: "Rashōmon",
 };
 
 export default function RootLayout({
